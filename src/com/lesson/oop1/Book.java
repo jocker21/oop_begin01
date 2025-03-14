@@ -1,4 +1,4 @@
-package com.lesson.oop;
+package com.lesson.oop1;
 
 public class Book {
       public Title title;

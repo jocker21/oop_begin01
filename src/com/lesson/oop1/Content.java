@@ -1,4 +1,4 @@
-package com.lesson.oop;
+package com.lesson.oop1;
 
 class Content {
     public String content;
@@ -8,6 +8,6 @@ class Content {
     }
 
     public void show() {
-        System.out.println("Анотація: " +  content);
+        System.out.println("Анотація: " + content);
     }
 }

@@ -1,4 +1,4 @@
-package com.lesson.oop;
+package com.lesson.oop1;
 
 class Title {
     public   String title;

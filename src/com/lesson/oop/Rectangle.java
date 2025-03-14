@@ -1,4 +1,5 @@
 package com.lesson.oop;
+
 import java.util.Scanner;
 
 public class Rectangle {
