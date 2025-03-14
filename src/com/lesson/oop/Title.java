@@ -1,7 +1,7 @@
 package com.lesson.oop;
 
 class Title {
-    private final String title;
+    public   String title;
 
     public Title(String title) {
         this.title = title;

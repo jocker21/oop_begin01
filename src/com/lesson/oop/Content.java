@@ -1,7 +1,7 @@
 package com.lesson.oop;
 
 class Content {
-    private final String content;
+    public String content;
 
     public Content(String content) {
         this.content = content;

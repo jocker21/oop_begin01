@@ -1,7 +1,7 @@
 package com.lesson.oop;
 
 class Author {
-    private  final String authorName;
+    public String authorName;
     public Author (String authorName) {
         this.authorName = authorName;
     }
